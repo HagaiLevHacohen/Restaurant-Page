@@ -1,3 +1,14 @@
-p {
+button {
     color: purple;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+
+.ul-menu {
+    background-color: rgba(128, 128, 128, 0.384);
+    border-radius: 5px;
 }
